@@ -1,6 +1,6 @@
 # NTU-SMAPPS Part 2 Game Public
 
-This game takes inspiration from **Crosy Road** to create an engaging game to spread awareness of drugs & vapes in hopes to prevent its usage. The game is part of a section of the overarching project to tackle the problem statement. It is built using ![Unity](https://unity.com/).
+This game takes inspiration from **Crosy Road** to create an engaging game to spread awareness of drugs & vapes in hopes to prevent its usage. The game is part of a section of the overarching project to tackle the problem statement. It is built using [Unity](https://unity.com/).
 
 > Note: Leaderboard does not work to prevent Firebase/Unity API Keys to be misused.
 >       Missing scripts in regards to leaderboard.
@@ -23,7 +23,7 @@ For additional details on the game, the Unity game packages can be found in the 
 ---
 
 #### How to play?
-Game is deployed on ![Github Pages](https://defensivestance.github.io/ntu_smapps_part2dipgame/).
+Game is deployed on [Github Pages](https://defensivestance.github.io/ntu_smapps_part2dipgame/).
 **Pressing the Quit button in the game over screen will crash the game**
 
 Works on both mobile and desktop.
