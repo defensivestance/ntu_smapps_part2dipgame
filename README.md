@@ -23,6 +23,12 @@ For additional details on the game, the Unity game packages can be found in the 
 ---
 
 #### How to play?
-Game is deployed on ![Github Pages]().
+Game is deployed on ![Github Pages](https://defensivestance.github.io/ntu_smapps_part2dipgame/).
+**Pressing the Quit button in the game over screen will crash the game**
+
+Works on both mobile and desktop.
+> Desktop: WASD
+> Mobile: Touchscreen Swipe
+
 
 >**FINAL NOTE**: This project is completed and no changes will be made.
