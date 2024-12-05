@@ -27,8 +27,8 @@ Game is deployed on ![Github Pages](https://defensivestance.github.io/ntu_smapps
 **Pressing the Quit button in the game over screen will crash the game**
 
 Works on both mobile and desktop.
-> Desktop: WASD
-> Mobile: Touchscreen Swipe
+- Desktop: WASD
+- Mobile: Touchscreen Swipe
 
 
 >**FINAL NOTE**: This project is completed and no changes will be made.
