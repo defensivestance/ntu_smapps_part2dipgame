@@ -10,9 +10,9 @@ For additional details on the game, the Unity game packages can be found in the 
 ---
 ## Game Overview
 #### Main Menu
-![](https://github.com/defensivestance/NTU_SMAPPS_part2_game_pub/blob/main/mainmenuscreen.JPG)
+![](https://github.com/defensivestance/ntu_smapps_part2dipgame/blob/main/mainmenuscreen.JPG)
 #### Main Game
-![](https://github.com/defensivestance/NTU_SMAPPS_part2_game_pub/blob/main/maingamescreen.gif)
+![](https://github.com/defensivestance/ntu_smapps_part2dipgame/blob/main/maingamescreen.gif)
 
 #### Added Extra Features
 - Health Feature
